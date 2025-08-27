@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PaxTrkUuBvM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gyrom\\OneDrive\\Desktop\\CSharps\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gyrom\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\gyrom\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
